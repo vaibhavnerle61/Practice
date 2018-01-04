@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         pcs.add("IBM");
         pcs.add("Super");
         pcs.add("Quantum");
+        pcs.add("Lenovo");
 
         ArrayAdapter adapter = new ArrayAdapter<String>(
                 this,
