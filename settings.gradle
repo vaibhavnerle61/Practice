@@ -1,1 +1,1 @@
-include ':app', ':adapterview'
+include ':app', ':adapterview', ':custumadapter', ':customadapter', ':materialdesign'

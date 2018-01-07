@@ -10,6 +10,9 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/adapterview" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/customadapter" />
+            <option value="$PROJECT_DIR$/custumadapter" />
+            <option value="$PROJECT_DIR$/materialdesign" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

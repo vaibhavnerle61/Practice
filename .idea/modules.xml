@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/NewProject.iml" filepath="$PROJECT_DIR$/NewProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/adapterview/adapterview.iml" filepath="$PROJECT_DIR$/adapterview/adapterview.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customadapter/customadapter.iml" filepath="$PROJECT_DIR$/customadapter/customadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custumadapter/custumadapter.iml" filepath="$PROJECT_DIR$/custumadapter/custumadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materialdesign/materialdesign.iml" filepath="$PROJECT_DIR$/materialdesign/materialdesign.iml" />
     </modules>
   </component>
 </project>
